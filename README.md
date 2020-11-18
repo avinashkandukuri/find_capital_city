@@ -11,3 +11,9 @@ To use this application you need the following pre-requisites:
   - Clone project 
   - IntelliJ IDEA (One can download the community edition from here) or
   - Eclipse IDEA 
+  
+  ## Run :
+
+    * Right-click on project
+    * Run As > Java Application
+    * If asked, type "Application" and click OK
