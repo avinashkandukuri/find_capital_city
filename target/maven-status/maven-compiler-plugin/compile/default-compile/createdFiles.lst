@@ -1,0 +1,10 @@
+com\test\findcapitalcity\model\RegionalBloc.class
+com\test\findcapitalcity\model\Language.class
+com\test\findcapitalcity\model\RestResponse.class
+com\test\findcapitalcity\model\Translations.class
+com\test\findcapitalcity\model\Currency.class
+com\test\findcapitalcity\model\State.class
+com\test\findcapitalcity\model\Response.class
+com\test\findcapitalcity\Application.class
+com\test\findcapitalcity\util\Util.class
+com\test\findcapitalcity\service\Service.class
